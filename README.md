@@ -52,8 +52,8 @@ langdetect
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/Anilkumar322/AI-Predictive-Methods-for-Credit-underwriting.git
-cd AI-Predictive-Methods-for-Credit-underwriting
+git clone https://github.com/Nourin04/Predictive-model-for-credit-underwriting
+cd Predictive-model-for-credit-underwriting
 ```
 
 ### Install Dependencies:
