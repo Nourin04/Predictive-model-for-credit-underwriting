@@ -9,4 +9,4 @@ numpy
 seaborn
 joblib
 fpdf2
-fpdf
+
